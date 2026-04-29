@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+
+# models
+*.pt
+*.pth
+*.ckpt
+
+# audio
+*.wav
+*.flac
+*.mp3
+
+# datasets
+data/
+datasets/
+
+# outputs
+outputs/
+checkpoints/
+results/
+
+# logs
+*.log
+
+# env
+venv/
+.env

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Siuzdak
+    given-names: Hubert
+  - family-names: Grötschla
+    given-names: Florian
+  - family-names: Lanzendörfer
+    given-names: Luca A.
+title: 'SNAC: Multi-Scale Neural Audio Codec'
+url: 'https://github.com/hubertsiuzdak/snac'
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Siuzdak
+      given-names: Hubert
+    - family-names: Grötschla
+      given-names: Florian
+    - family-names: Lanzendörfer
+      given-names: Luca A.
+  collection-title: 'Audio Imagination: NeurIPS 2024 Workshop AI-Driven Speech, Music, and Sound Generation'
+  title: 'SNAC: Multi-Scale Neural Audio Codec'
+  year: 2024
